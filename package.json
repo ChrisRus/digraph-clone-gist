@@ -1,0 +1,13 @@
+{
+  "name": "digraph-clone-gist",
+  "version": "1.0.0",
+  "description": "Tests and experiments to answer the question how to clone a DirectedGraph?",
+  "main": "digraph-clone-test.js",
+  "repository": "git@github.com:ChrisRus/digraph-clone-gist.git",
+  "author": "Chris Russell <cdr@encapsule.io>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@encapsule/arccore": "^0.1.3"
+  }
+}
